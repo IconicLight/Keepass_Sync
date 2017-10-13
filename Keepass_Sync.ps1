@@ -1,4 +1,4 @@
-#File Path
+﻿#File Path
 $MainDropbox = "C:\Users\Kyle\Dropbox\Crypted\Main.kdbx"
 $MainOneDrive = "C:\Users\Kyle\OneDrive\Main.kdbx"
 $MainGoogleDrive = "C:\Users\Kyle\Google Drive\Main.kdbx"
